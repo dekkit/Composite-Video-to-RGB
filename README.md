@@ -1,4 +1,4 @@
-# Composite-Video-to-RGB-Sync
+# Composite-Video-to-RGB
 A cheap DYI solution for demodulating an analog composite video signal back to RGB.
 
 As a big fan of the cheap GBS 8200 video scaler (especially once modified with GBS Control), i was keen to find a method to input a color composite video signal.
