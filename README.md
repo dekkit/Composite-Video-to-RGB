@@ -1,6 +1,8 @@
 # Composite-Video-to-RGB
 A cheap DYI solution for demodulating an analog composite video signal back to RGB.
 
+UPDATE 30/APR/23 - still working on this but no luck so far, with initial protoypes.
+
 As a big fan of the cheap GBS 8200 video scaler (especially once modified with GBS Control), i was keen to find a method to input a color composite video signal.
 While primarily for upscaling, this may be useful for adding a composite video signal into an rgb only monitor.
 
