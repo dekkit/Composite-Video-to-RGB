@@ -1,6 +1,7 @@
 # Composite-Video-to-RGB
 A cheap DYI solution for demodulating an analog composite video signal back to RGB.
 
+UPDATE 13/AUG/23 - taken a small break from this as i still can't get a decent picture and will need to review it further under a scope or redesign  - suspect i need redo the sync component.  I've also seen some cheap circuits (2x scaler) on ebay/Ali that seem to be able to take 240p composite video and svideosignal and convert to 240p  RGB HV (and also upscale x2) - that may be less hassle.
 UPDATE 30/APR/23 - still working on this but no luck so far, with initial protoypes.
 
 As a big fan of the cheap GBS 8200 video scaler (especially once modified with GBS Control), i was keen to find a method to input a color composite video signal.
